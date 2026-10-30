@@ -1,4 +1,19 @@
-<h1>Invertis University</h1>
+Assignment-14:
+Semantic Improvement of the College Page
+
+DOCTYPE htm<!l>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Semantic Improvement">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Semantic Improvement of the College Page</title>
+</head>
+
+<body>
+  <header>
+    <h1>Invertis University</h1>
     <nav label="Page sections">
       <a href="#college">College</a> |
       <a href="#course">Course</a> 
